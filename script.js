@@ -31,4 +31,5 @@ var love = setInterval(function(){
       i++;
       setTimeout(typeWriter, speed);
     }
+
   }
